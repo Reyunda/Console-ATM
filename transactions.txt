@@ -1,0 +1,2 @@
+Transaction # : 1 ,Withdrawal amount : 100
+Transaction # : 2 ,Withdrawal amount : 200
